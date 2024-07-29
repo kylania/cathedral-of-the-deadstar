@@ -1,0 +1,39 @@
+{
+  "id": "cathedral-of-the-deadstar",
+  "title": "Cathedral of the Deadstar",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "authors": [
+    {
+      "name": "Katherine Stark - Author",
+      "url": "https://kastark.itch.io/",
+      "flags": {}
+    },
+    {
+      "name": "G Force - Cover Art",
+      "flags": {}
+    },
+    {
+      "name": "kylania - Foundry VTT Conversion",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "cathedral-of-the-deadstar",
+      "label": "Cathedral of the Deadstar",
+      "path": "packs/cathedral-of-the-deadstar",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "lancer",
+      "flags": {}
+    }
+  ]
+}
